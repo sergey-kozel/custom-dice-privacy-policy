@@ -26,7 +26,7 @@ Link to the privacy policy of third-party service providers used by the app
 
 ### Log Data
 
-We want to inform You that whenever You use my Service, in a case of an error in the app We collect data and information (through third-party products) on Your phone called Log Data. This Log Data may include information such as Your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of Your use of the Service, and other statistics.
+We want to inform You that whenever You use Our Service, in a case of an error in the app We collect data and information (through third-party products) on Your phone called Log Data. This Log Data may include information such as Your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing Our Service, the time and date of Your use of the Service, and other statistics.
 
 
 ### Cookies
