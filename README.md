@@ -1,13 +1,13 @@
 ## Privacy Policy
 
 
-KZL APPS built the Custom Dice app as an Ad Supported app. This SERVICE is provided by KZL APPS at no cost and is intended for use as is.
+KZL APPS built the Cubic app as an Ad Supported app. This SERVICE is provided by KZL APPS at no cost and is intended for use as is.
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 If You choose to use Our Service, then You agree to the collection and use of information in relation to this policy. The Personal Information that We collect is used for providing and improving the Service. We will not use or share Your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in Our Terms and Conditions, which are accessible in the Custom Dice app unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in Our Terms and Conditions, which are accessible in the Cubic app unless otherwise defined in this Privacy Policy.
 
 
 ### Information Collection and Use
